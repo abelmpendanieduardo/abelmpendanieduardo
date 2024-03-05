@@ -1,8 +1,6 @@
 ## Hi everyone, I'm Abel Eduardo. Welcome to my GitHub profile. 👌
 
 ## 🌐 My social networks :
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://m.facebook.com/joanadelfina.pembele](https://mobile.facebook.com/profile.php?eav=AfYg511zicVuQJcun6IKJ-SpLAXl3EM9WIuadoqVg7lg6t1wZj9Bos48PGOwmxLmI08&paipv=0))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 <a href="mailto:abelmpendanieduardo34@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 ## 📚 Github Stats :
