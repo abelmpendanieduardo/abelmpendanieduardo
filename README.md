@@ -2,7 +2,7 @@
 
 ## 🌐 My social networks :
 <a href="mailto:abelmpendanieduardo34@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="www.linkedin.com/in/abel-eduardo-a74006261"> <img src="https://img.shields.io/badge/Linkedin-1d38ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/abel-eduardo-a74006261"> <img src="https://img.shields.io/badge/Linkedin-1d38ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 
 ## 📚 Github Stats :
 <div>
